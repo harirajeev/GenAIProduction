@@ -32,3 +32,11 @@ Common latency metrics include:
 - Tokens Per Second (TPS): The rate at which tokens are generated.
 - Time Per Output Token (TPOT): The time it takes to generate each output token.
 - Total Latency: The total time required to complete a response.
+
+GenAI adoption usecases:
+- [Musings on Building a Generative AI Product (LinkedIn, 2024)](https://www.linkedin.com/blog/engineering/generative-ai/musings-on-building-a-generative-ai-product?_l=en_US)
+- [How we built Text-to-SQL at Pinterest (Pinterest, 2024)](https://medium.com/pinterest-engineering/how-we-built-text-to-sql-at-pinterest-30bad30dabff)
+- [From idea to reality: Elevating our customer support through generative AI (Vimeo, 2023)](https://medium.com/vimeo-engineering-blog/from-idea-to-reality-elevating-our-customer-support-through-generative-ai-101a2c5ea680)
+- [A deep dive into the world’s smartest email AI (Shortwave, 2023)](https://www.shortwave.com/blog/deep-dive-into-worlds-smartest-email-ai/)
+- [LLM-powered data classification for data entities at scale (Grab, 2023)](https://engineering.grab.com/llm-powered-data-classification)
+- [From Predictive to Generative - How Michelangelo Accelerates Uber’s AI Journey (Uber, 2024)](https://www.uber.com/blog/from-predictive-to-generative-ai/)
