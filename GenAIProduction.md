@@ -1,6 +1,3 @@
-![image](https://github.com/user-attachments/assets/f5b34532-1bae-48d5-a237-8013f8ab1e1d)
-
-
 What We Learned from a Year of Building with LLMs - Eugene Yan, Bryan Bischof, Charles Frye, Hamel Husain, Jason Liu and Shreya Shankar
   - [Part 1 - tactical nuts and bolts of working with LLMs](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i/)
   - [Part 2 - long-term strategic considerations](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-ii/)
