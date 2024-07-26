@@ -21,4 +21,4 @@ LLMs can be categorised based on the number of parameters:
 - 𝗟𝗮𝗿𝗴𝗲: 10 to 100 billion parameters
 - 𝗩𝗲𝗿𝘆 𝗟𝗮𝗿𝗴𝗲: > 100 billion parameters
   
-[Llama](https://github.com/harirajeev/learn_LLMS/blob/main/Llama.md)
+
