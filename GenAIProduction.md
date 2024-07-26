@@ -12,10 +12,7 @@ Responsible AI
 RAG
 -  https://github.com/harirajeev/learn_LLMS/blob/main/RAG.md
 
-LLMs can be categorised based on the number of parameters:
-- 𝗦𝗺𝗮𝗹𝗹: ≤ 1 billion parameters
-- 𝗠𝗲𝗱𝗶𝘂𝗺: 1 to 10 billion parameters
-- 𝗟𝗮𝗿𝗴𝗲: 10 to 100 billion parameters
-- 𝗩𝗲𝗿𝘆 𝗟𝗮𝗿𝗴𝗲: > 100 billion parameters
-  
+[Building A Generative AI Platform](https://huyenchip.com/2024/07/25/genai-platform.html)
+
+
 
