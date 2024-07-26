@@ -12,7 +12,7 @@ Responsible AI
 RAG
 -  https://github.com/harirajeev/learn_LLMS/blob/main/RAG.md
 
-[Building A Generative AI Platform](https://huyenchip.com/2024/07/25/genai-platform.html)
+[Building A Generative AI Platform - Chip Huyen](https://huyenchip.com/2024/07/25/genai-platform.html)
 
 
 
