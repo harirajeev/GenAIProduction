@@ -17,3 +17,11 @@ LLMs can be categorised based on the number of parameters:
 - Query per second (QPS): the number of queries the algorithm can handle per second. This is crucial for high-traffic applications.
 - Build time: the time required to build the index. This metric is important especially if you need to frequently update your index (e.g. because your data changes).
 - Index size: the size of the index created by the algorithm, which is crucial for assessing its scalability and storage requirements.
+
+System metrics tell you the state of your overall system. Common metrics are 
+- throughput,
+- memory usage,
+- hardware utilization, and
+- service availability/uptime.
+
+Model metrics assess your model’s performance, such as accuracy, toxicity, and hallucination rate.
