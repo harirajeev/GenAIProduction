@@ -25,3 +25,10 @@ System metrics tell you the state of your overall system. Common metrics are
 - service availability/uptime.
 
 Model metrics assess your model’s performance, such as accuracy, toxicity, and hallucination rate.
+
+Common latency metrics include:
+- Time to First Token (TTFT): The time it takes for the first token to be generated.
+- Time Between Tokens (TBT): The interval between each token generation.
+- Tokens Per Second (TPS): The rate at which tokens are generated.
+- Time Per Output Token (TPOT): The time it takes to generate each output token.
+- Total Latency: The total time required to complete a response.
