@@ -5,7 +5,8 @@
    -   Examples of vulnerabilities include prompt injections, data leakage, inadequate sandboxing, and unauthorized code execution, among others
    -   The goal is to raise awareness of these vulnerabilities, suggest remediation strategies, and ultimately improve the security posture of LLM applications.
    -   https://genai.owasp.org/blog/
-   -   [OWASP Top 10 for LLMs - AI Red Teaming & Evaluation Guidelines v3](https://docs.google.com/document/d/1m06DMhonGuq8hTN30S-fAsuBA-ZK1UHMyzZamsZSTaE/edit)
+   -   [Gen AI Red Teaming (GRT)](https://github.com/harirajeev/GenAIProduction/blob/main/Generative%20AI%20Red%20Teaming%20(GRT)%20.md)
+   -   
 - Microsoft
    - [Responsible AI Transparency Report](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1l5BO)
    - [Microsoft’s Perspectives on Responsible AI in Financial Services](https://aka.ms/AA6ezp5)
