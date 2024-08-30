@@ -3,6 +3,7 @@ Survey on GenAI Production best practices and everything around it
 
 - [GenAI Production](https://github.com/harirajeev/GenAIProduction/blob/main/GenAIProduction.md)
 - [GenAI Security](https://github.com/harirajeev/GenAIProduction/blob/main/GenAISecurity.md)
+- [OWASP Top 10 LLM Apps Newsletter](https://llmtop10.beehiiv.com/)
 
 ![image](https://github.com/user-attachments/assets/010d553d-c53d-42e0-bbc4-2e02373964fc)
 
@@ -33,6 +34,9 @@ Common latency metrics include:
 - Tokens Per Second (TPS): The rate at which tokens are generated.
 - Time Per Output Token (TPOT): The time it takes to generate each output token.
 - Total Latency: The total time required to complete a response.
+
+Agents
+- [What are AI agents? - IBM](https://www.ibm.com/think/topics/ai-agents?utm_source=llmtop10.beehiiv.com&utm_medium=referral&utm_campaign=owasp-top-10-for-llm-applications-newsletter-august-24-edition)
 
 GenAI adoption usecases:
 - [Musings on Building a Generative AI Product (LinkedIn, 2024)](https://www.linkedin.com/blog/engineering/generative-ai/musings-on-building-a-generative-ai-product?_l=en_US)
