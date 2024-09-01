@@ -17,3 +17,8 @@
 16. [API Security ](https://lnkd.in/e79ZYfPa)
 17. [APIs for Everyone ](https://lnkd.in/e4WGDffA)
 
+GraphQL:
+- GraphQL can help improve the performance of your applications. With REST APIs, you often have to make multiple API calls to get all the data you need, which can be slow and resource-intensive.
+- With GraphQL, you can get all the data you need in a single request, which can greatly improve the performance of your application.
+- GraphQL is that it can help improve the flexibility of your API. With REST APIs, you often have to design your API around the needs of your clients. This can be a problem if your clients have very different data needs, as you may have to design multiple endpoints to accommodate them all.
+- With GraphQL, clients can request exactly the data they need, which makes it much easier to design a flexible API that can accommodate a wide range of client needs.
