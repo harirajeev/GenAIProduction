@@ -1,4 +1,4 @@
-
+REST - (Representational State Transfer) 
  1. [API Fundamentals ](https://lnkd.in/e8eMet_k) 
  2. [API Simplified ](https://lnkd.in/er9JiGxw) 
  3. [API Methods](https://lnkd.in/ey9v7-hU) 
