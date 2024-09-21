@@ -15,7 +15,8 @@ REST - (Representational State Transfer)
 14. [APIs with Postman ](https://lnkd.in/ezue3d4B)
 15. [Testing APIs ](https://lnkd.in/eCPnGTGi)
 16. [API Security ](https://lnkd.in/e79ZYfPa)
-17. [APIs for Everyone ](https://lnkd.in/e4WGDffA)
+17. [APIs for Everyone ](https://www.departmentofproduct.com/blog/apis-explained-for-product-managers/)
+18. [Top HTTP Request methods](https://media.licdn.com/dms/image/v2/D4E22AQFP_VoMQYUbuQ/feedshare-shrink_800/feedshare-shrink_800/0/1726862477461?e=1729728000&v=beta&t=TZcoi_katvGJk9MaJwBWEhjU2Q92rpI7E46qkV6Yn3U)
 
 GraphQL:
 - GraphQL can help improve the performance of your applications. With REST APIs, you often have to make multiple API calls to get all the data you need, which can be slow and resource-intensive.
