@@ -38,7 +38,7 @@ Common latency metrics include:
 Agents
 - [What are AI agents? - IBM](https://www.ibm.com/think/topics/ai-agents?utm_source=llmtop10.beehiiv.com&utm_medium=referral&utm_campaign=owasp-top-10-for-llm-applications-newsletter-august-24-edition)
 
-[Load Balancing](https://github.com/harirajeev/GenAIProduction/blob/main/loadbalancing.md)
+[Load Balancing](https://github.com/harirajeev/GenAIProduction/blob/main/loadbalancing.md) <br>
 [OAuth](https://github.com/harirajeev/GenAIProduction/blob/main/oauth.md)
 
 GenAI adoption usecases:
