@@ -1,3 +1,7 @@
+Agent tools
+- [Windows Agent Arena (WAA)](https://github.com/microsoft/WindowsAgentArena)
+  is a scalable OS platform for testing and benchmarking of multi-modal AI agents
+
 What are agent swarms?
 
 The Simple Step-by-Step System to Create Powerful Agent ...
