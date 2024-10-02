@@ -7,7 +7,8 @@
   - vLLM
   - Olama
   - LiteLLM etc
-    
+- [RAG as a Service](https://github.com/harirajeev/GenAIProduction/blob/main/RAGasService.md)
+  
 Survey on GenAI Production best practices and everything around it
 - [GenAI Production](https://github.com/harirajeev/GenAIProduction/blob/main/GenAIProduction.md)
 - [GenAI Security](https://github.com/harirajeev/GenAIProduction/blob/main/GenAISecurity.md)
