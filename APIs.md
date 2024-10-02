@@ -1,22 +1,33 @@
-REST - (Representational State Transfer) 
- 1. [API Fundamentals ](https://lnkd.in/e8eMet_k) 
- 2. [API Simplified ](https://lnkd.in/er9JiGxw) 
- 3. [API Methods](https://lnkd.in/ey9v7-hU) 
- 4. [API Terminologies](https://lnkd.in/eRsPMzpd)
- 5. [API Authentication ](https://lnkd.in/eNPfpAdE)
- 6. [API Status Codes ](https://lnkd.in/egXizUrS)
- 7. [REST API vs GraphQL ](https://lnkd.in/eZHREdgC)
- 8. [API Integration ](https://lnkd.in/eDASPP5m)
- 9. [API Integration in Detail ](https://snipcart.com/blog/integrating-apis-introduction)
-10. [API Testing ](https://lnkd.in/emgmWJqH)
-11. [API with Python ](https://lnkd.in/eM23ah2y)
-12. [API Scaling ](https://lnkd.in/e3mZSvmn)
-13. [Developing Robust APIs ](https://lnkd.in/eBXzbFyg)
-14. [APIs with Postman ](https://lnkd.in/ezue3d4B)
-15. [Testing APIs ](https://lnkd.in/eCPnGTGi)
-16. [API Security ](https://lnkd.in/e79ZYfPa)
-17. [APIs for Everyone ](https://www.departmentofproduct.com/blog/apis-explained-for-product-managers/)
-18. [Top HTTP Request methods](https://media.licdn.com/dms/image/v2/D4E22AQFP_VoMQYUbuQ/feedshare-shrink_800/feedshare-shrink_800/0/1726862477461?e=1729728000&v=beta&t=TZcoi_katvGJk9MaJwBWEhjU2Q92rpI7E46qkV6Yn3U)
+𝗙𝘂𝗻𝗱𝗮𝗺𝗲𝗻𝘁𝗮𝗹𝘀
+  - [API Fundamentals ](https://lnkd.in/e8eMet_k)
+  - [API Simplified ](https://lnkd.in/er9JiGxw) 
+  - [API Terminologies](https://lnkd.in/eRsPMzpd)
+
+𝗖𝗼𝗿𝗲 𝗖𝗼𝗻𝗰𝗲𝗽𝘁𝘀
+  - [API Methods](https://lnkd.in/ey9v7-hU) 
+  - [API Authentication ](https://lnkd.in/eNPfpAdE)
+  - [API Status Codes ](https://lnkd.in/egXizUrS)
+
+
+𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗧𝗼𝗽𝗶𝗰𝘀
+  - [REST API vs GraphQL ](https://lnkd.in/eZHREdgC)
+  - [API Scaling ](https://lnkd.in/e3mZSvmn)
+  - [Developing Robust APIs ](https://lnkd.in/eBXzbFyg)
+
+𝗜𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻
+  - [API Integration ](https://lnkd.in/eDASPP5m)
+  - [API Integration in Detail ](https://snipcart.com/blog/integrating-apis-introduction)
+  - [API with Python ](https://lnkd.in/eM23ah2y)
+
+𝗧𝗲𝘀𝘁𝗶𝗻𝗴 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀
+  - [API Testing ](https://lnkd.in/emgmWJqH)
+  - [Testing APIs ](https://lnkd.in/eCPnGTGi)
+  - [APIs with Postman ](https://lnkd.in/ezue3d4B)
+
+𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗮𝗻𝗱 𝗔𝗰𝗰𝗲𝘀𝘀𝗶𝗯𝗶𝗹𝗶𝘁𝘆
+  - [API Security ](https://lnkd.in/e79ZYfPa)
+  - APIs for Everyone - [https://lnkd.in/e4WGDffA](https://www.departmentofproduct.com/blog/apis-explained-for-product-managers/)
+  - [Top HTTP Request methods](https://media.licdn.com/dms/image/v2/D4E22AQFP_VoMQYUbuQ/feedshare-shrink_800/feedshare-shrink_800/0/1726862477461?e=1729728000&v=beta&t=TZcoi_katvGJk9MaJwBWEhjU2Q92rpI7E46qkV6Yn3U)
 
 GraphQL:
 - GraphQL can help improve the performance of your applications. With REST APIs, you often have to make multiple API calls to get all the data you need, which can be slow and resource-intensive.
