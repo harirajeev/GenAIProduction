@@ -1,6 +1,14 @@
 # GenAIProduction
-Survey on GenAI Production best practices and everything around it
 
+- [Agents](https://github.com/harirajeev/GenAIProduction/blob/main/Agents.md)
+- [Load Balancing](https://github.com/harirajeev/GenAIProduction/blob/main/loadbalancing.md) <br>
+- [OAuth](https://github.com/harirajeev/GenAIProduction/blob/main/oauth.md)
+- [Open Source LLMs](https://github.com/harirajeev/GenAIProduction/blob/main/OpenSourceLibs.md)
+  - vLLM
+  - Olama
+  - LiteLLM etc
+    
+Survey on GenAI Production best practices and everything around it
 - [GenAI Production](https://github.com/harirajeev/GenAIProduction/blob/main/GenAIProduction.md)
 - [GenAI Security](https://github.com/harirajeev/GenAIProduction/blob/main/GenAISecurity.md)
 - [OWASP Top 10 LLM Apps Newsletter](https://llmtop10.beehiiv.com/)
@@ -29,21 +37,11 @@ System metrics tell you the state of your overall system. Common metrics are
 Model metrics assess your model’s performance, such as accuracy, toxicity, and hallucination rate.
 
 Common latency metrics include:
-- Time to First Token (TTFT): The time it takes for the first token to be generated.
-- Time Between Tokens (TBT): The interval between each token generation.
-- Tokens Per Second (TPS): The rate at which tokens are generated.
-- Time Per Output Token (TPOT): The time it takes to generate each output token.
-- Total Latency: The total time required to complete a response.
-
-Agents
-- [What are AI agents? - IBM](https://www.ibm.com/think/topics/ai-agents?utm_source=llmtop10.beehiiv.com&utm_medium=referral&utm_campaign=owasp-top-10-for-llm-applications-newsletter-august-24-edition)
-
-[Load Balancing](https://github.com/harirajeev/GenAIProduction/blob/main/loadbalancing.md) <br>
-[OAuth](https://github.com/harirajeev/GenAIProduction/blob/main/oauth.md)
-[Open Source LLMs](https://github.com/harirajeev/GenAIProduction/blob/main/OpenSourceLibs.md)
-- vLLM
-- Olama
-- LiteLLM etc
+  - Time to First Token (TTFT): The time it takes for the first token to be generated.
+  - Time Between Tokens (TBT): The interval between each token generation.
+  - Tokens Per Second (TPS): The rate at which tokens are generated.
+  - Time Per Output Token (TPOT): The time it takes to generate each output token.
+  - Total Latency: The total time required to complete a response.
   
 GenAI adoption usecases:
 - [Musings on Building a Generative AI Product (LinkedIn, 2024)](https://www.linkedin.com/blog/engineering/generative-ai/musings-on-building-a-generative-ai-product?_l=en_US)
