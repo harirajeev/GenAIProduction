@@ -40,7 +40,10 @@ Agents
 
 [Load Balancing](https://github.com/harirajeev/GenAIProduction/blob/main/loadbalancing.md) <br>
 [OAuth](https://github.com/harirajeev/GenAIProduction/blob/main/oauth.md)
-
+[Open Source LLMs](https://github.com/harirajeev/GenAIProduction/blob/main/OpenSourceLibs.md)
+- vLLM
+- Olama
+- LiteLLM etc
 GenAI adoption usecases:
 - [Musings on Building a Generative AI Product (LinkedIn, 2024)](https://www.linkedin.com/blog/engineering/generative-ai/musings-on-building-a-generative-ai-product?_l=en_US)
 - [How we built Text-to-SQL at Pinterest (Pinterest, 2024)](https://medium.com/pinterest-engineering/how-we-built-text-to-sql-at-pinterest-30bad30dabff)
