@@ -11,7 +11,7 @@
    - [Responsible AI Transparency Report](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1l5BO)
    - [Microsoft’s Perspectives on Responsible AI in Financial Services](https://aka.ms/AA6ezp5)
    - [Responsible AI in Financial Services : Governance and Risk Management](https://aka.ms/AA6ezp7)
-- https://sec.cloudapps.cisco.com/security/center/resources/ai-security
+- [Cisco AI Security](https://sec.cloudapps.cisco.com/security/center/resources/ai-security)
 - [Scaling gen AI in banking: Choosing the best operating model -mckinsey](https://www.mckinsey.com/industries/financial-services/our-insights/scaling-gen-ai-in-banking-choosing-the-best-operating-model#/)
 - [As gen AI advances, regulators—and risk functions—rush to keep pace - mckinsey](https://www.mckinsey.com/~/media/mckinsey/business%20functions/risk/our%20insights/as%20gen%20ai%20advances%20regulators%20and%20risk%20functions%20rush%20to%20keep%20pace/as-gen-ai-advances-regulators-and-risk-functions-rush-to-keep-pace-vf.pdf?shouldIndex=false)
 - [European data compliance network](https://eadpp.insightz.io/overview)
