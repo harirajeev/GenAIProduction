@@ -1,3 +1,7 @@
+API Guidelines
+  -  [Microsoft Azure REST API Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/azure/Guidelines.md)
+  -  [The OpenAPI Specification](https://github.com/OAI/OpenAPI-Specification)
+
 𝗙𝘂𝗻𝗱𝗮𝗺𝗲𝗻𝘁𝗮𝗹𝘀
   - [API Fundamentals ](https://lnkd.in/e8eMet_k)
   - [API Simplified ](https://lnkd.in/er9JiGxw) 
