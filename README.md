@@ -14,6 +14,7 @@ Survey on GenAI Production best practices and everything around it
 - [GenAI Production](https://github.com/harirajeev/GenAIProduction/blob/main/GenAIProduction.md)
 - [GenAI Security](https://github.com/harirajeev/GenAIProduction/blob/main/GenAISecurity.md)
 - [OWASP Top 10 LLM Apps Newsletter](https://llmtop10.beehiiv.com/)
+- [AI Governance](https://github.com/harirajeev/GenAIProduction/blob/main/AI%20Governance.md)
 
 ![image](https://github.com/user-attachments/assets/010d553d-c53d-42e0-bbc4-2e02373964fc)
 
