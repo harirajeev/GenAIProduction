@@ -31,6 +31,7 @@ API Guidelines
 
 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗮𝗻𝗱 𝗔𝗰𝗰𝗲𝘀𝘀𝗶𝗯𝗶𝗹𝗶𝘁𝘆
   - [API Security ](https://lnkd.in/e79ZYfPa)
+  - [JWT](https://www.linkedin.com/posts/brijpandeyji_what-is-jwt-simply-put-its-a-secure-way-activity-7269205772788498432-xcGa?utm_source=share&utm_medium=member_desktop)
   - APIs for Everyone - [https://lnkd.in/e4WGDffA](https://www.departmentofproduct.com/blog/apis-explained-for-product-managers/)
   - [Top HTTP Request methods](https://media.licdn.com/dms/image/v2/D4E22AQFP_VoMQYUbuQ/feedshare-shrink_800/feedshare-shrink_800/0/1726862477461?e=1729728000&v=beta&t=TZcoi_katvGJk9MaJwBWEhjU2Q92rpI7E46qkV6Yn3U)
 
