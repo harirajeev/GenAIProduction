@@ -32,6 +32,7 @@ API Guidelines
 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗮𝗻𝗱 𝗔𝗰𝗰𝗲𝘀𝘀𝗶𝗯𝗶𝗹𝗶𝘁𝘆
   - [API Security ](https://lnkd.in/e79ZYfPa)
   - [JWT](https://www.linkedin.com/posts/brijpandeyji_what-is-jwt-simply-put-its-a-secure-way-activity-7269205772788498432-xcGa?utm_source=share&utm_medium=member_desktop)
+  - [HTTP Status Codes](https://www.linkedin.com/posts/brijpandeyji_these-three-digit-response-codes-form-the-activity-7269569157514330112-nMqr?utm_source=share&utm_medium=member_desktop)
   - APIs for Everyone - [https://lnkd.in/e4WGDffA](https://www.departmentofproduct.com/blog/apis-explained-for-product-managers/)
   - [Top HTTP Request methods](https://media.licdn.com/dms/image/v2/D4E22AQFP_VoMQYUbuQ/feedshare-shrink_800/feedshare-shrink_800/0/1726862477461?e=1729728000&v=beta&t=TZcoi_katvGJk9MaJwBWEhjU2Q92rpI7E46qkV6Yn3U)
 
@@ -40,3 +41,6 @@ GraphQL:
 - With GraphQL, you can get all the data you need in a single request, which can greatly improve the performance of your application.
 - GraphQL is that it can help improve the flexibility of your API. With REST APIs, you often have to design your API around the needs of your clients. This can be a problem if your clients have very different data needs, as you may have to design multiple endpoints to accommodate them all.
 - With GraphQL, clients can request exactly the data they need, which makes it much easier to design a flexible API that can accommodate a wide range of client needs.
+
+![image](https://github.com/user-attachments/assets/351c3bdf-dbe3-4497-8629-f83f8784ef9b)
+
