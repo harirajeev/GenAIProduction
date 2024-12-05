@@ -44,3 +44,9 @@ GraphQL:
 
 ![image](https://github.com/user-attachments/assets/351c3bdf-dbe3-4497-8629-f83f8784ef9b)
 
+The foundation of any microservice architecture rests on robust API management, encompassing:
+-  Service Registration
+-  Application Gateway
+-  load Balancing
+
+![image](https://github.com/user-attachments/assets/5254b614-ef6e-4d08-a060-fbf01ddb0d56)
