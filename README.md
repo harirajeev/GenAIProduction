@@ -1,5 +1,5 @@
 # GenAIProduction
-
+- [Chip Huyen learning resources](https://github.com/chiphuyen/aie-book/blob/main/resources.md)
 - [APIs](https://github.com/harirajeev/GenAIProduction/blob/main/APIs.md)
 - [Agents](https://github.com/harirajeev/GenAIProduction/blob/main/Agents.md)
 - [Load Balancing](https://github.com/harirajeev/GenAIProduction/blob/main/loadbalancing.md) <br>
