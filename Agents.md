@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/6837d77b-ca4a-4fd2-92b3-8497adfbcd1b)
+https://www.analyticsvidhya.com/blog/2024/10/agentic-design-patterns/
+
 Agent tools
 - [Windows Agent Arena (WAA)](https://github.com/microsoft/WindowsAgentArena)
   is a scalable OS platform for testing and benchmarking of multi-modal AI agents
