@@ -1,4 +1,4 @@
-CreWAI
+CreWAI [crewAI is an open source multiagent orchestration framework created by João Moura.]
 -  [CrewAI core concepts](https://docs.crewai.com/concepts/agents)
 -  [CrewAI core concepts Map](https://media.licdn.com/dms/image/v2/D5622AQGhinQdGSdBWw/feedshare-shrink_800/B56ZQvMrHpGoAg-/0/1735958639528?e=1738800000&v=beta&t=IvtmnuxGaXDsX3EO95j3Cz5-ksDFxaOtOGJx7kQETqE)
 
