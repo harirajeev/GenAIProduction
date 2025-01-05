@@ -1,7 +1,8 @@
 Agents nice articles
 - [FAQ on Demystifying AI Agents - breaks down the key buildings blocks well](https://sanjmo.medium.com/demystifying-ai-agents-frequently-asked-questions-faq-a9748b4f55e6)
 - [Building effective agents - Anthropic - helps to understand Workflows v/s Agents](https://www.anthropic.com/research/building-effective-agents?source=post_page-----89b605c41e54--------------------------------)
-  -  [notebook](https://github.com/anthropics/anthropic-cookbook/tree/main/patterns/agents)  
+  -  [notebook](https://github.com/anthropics/anthropic-cookbook/tree/main/patterns/agents)
+  -  [eg: AI evaluation benchmark powered by agents](https://www.anthropic.com/research/swe-bench-sonnet)
 - [Understanding Agentic AI Architecture - solid read on Agentic Architectures, Frameworks, the current ecosystem and practical consideratons](https://www.srajdev.com/understanding-agentic-ai-architecture/?source=post_page-----89b605c41e54--------------------------------)
 - [AI Agents: A Comprehensive Introduction for Developers - etailed part by part tutorial on AI Agents](https://thenewstack.io/ai-agents-a-comprehensive-introduction-for-developers/?source=post_page-----89b605c41e54--------------------------------)
 - [Demystifying Generative AI Agents -Dr Sokratis Kartakis](https://medium.com/@sokratis.kartakis/demystifying-generative-ai-agents-cf5ad36322bd)
