@@ -2,10 +2,10 @@ Agents nice articles
 - [FAQ on Demystifying AI Agents - breaks down the key buildings blocks well](https://sanjmo.medium.com/demystifying-ai-agents-frequently-asked-questions-faq-a9748b4f55e6)
 - [Building effective agents - Anthropic - helps to understand Workflows v/s Agents](https://www.anthropic.com/research/building-effective-agents?source=post_page-----89b605c41e54--------------------------------)
 - [Understanding Agentic AI Architecture - solid read on Agentic Architectures, Frameworks, the current ecosystem and practical consideratons](https://www.srajdev.com/understanding-agentic-ai-architecture/?source=post_page-----89b605c41e54--------------------------------)
-- 
-
-
-
+- [AI Agents: A Comprehensive Introduction for Developers - etailed part by part tutorial on AI Agents](https://thenewstack.io/ai-agents-a-comprehensive-introduction-for-developers/?source=post_page-----89b605c41e54--------------------------------)
+- [Demystifying Generative AI Agents -Dr Sokratis Kartakis](https://medium.com/@sokratis.kartakis/demystifying-generative-ai-agents-cf5ad36322bd)
+- [notebook - how you would implement an Agent](https://github.com/GoogleCloudPlatform/generative-ai/blob/main/gemini/agents/research-multi-agents/intro_research_multi_agents_gemini_2_0.ipynb?source=post_page-----89b605c41e54--------------------------------)
+  
 CreWAI [crewAI is an open source multiagent orchestration framework created by João Moura.]
 -  [CrewAI core concepts](https://docs.crewai.com/concepts/agents)
 -  [CrewAI core concepts Map](https://media.licdn.com/dms/image/v2/D5622AQGhinQdGSdBWw/feedshare-shrink_800/B56ZQvMrHpGoAg-/0/1735958639528?e=1738800000&v=beta&t=IvtmnuxGaXDsX3EO95j3Cz5-ksDFxaOtOGJx7kQETqE)
