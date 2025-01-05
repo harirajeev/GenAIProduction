@@ -1,4 +1,7 @@
-[CrewAI core concepts](https://media.licdn.com/dms/image/v2/D5622AQGhinQdGSdBWw/feedshare-shrink_800/B56ZQvMrHpGoAg-/0/1735958639528?e=1738800000&v=beta&t=IvtmnuxGaXDsX3EO95j3Cz5-ksDFxaOtOGJx7kQETqE)
+CreWAI
+-  [CrewAI core concepts](https://docs.crewai.com/concepts/agents)
+-  [CrewAI core concepts Map](https://media.licdn.com/dms/image/v2/D5622AQGhinQdGSdBWw/feedshare-shrink_800/B56ZQvMrHpGoAg-/0/1735958639528?e=1738800000&v=beta&t=IvtmnuxGaXDsX3EO95j3Cz5-ksDFxaOtOGJx7kQETqE)
+
 
 ![image](https://github.com/user-attachments/assets/6837d77b-ca4a-4fd2-92b3-8497adfbcd1b)
 https://www.analyticsvidhya.com/blog/2024/10/agentic-design-patterns/
