@@ -7,6 +7,7 @@ Agents nice articles
 - [Understanding Agentic AI Architecture - solid read on Agentic Architectures, Frameworks, the current ecosystem and practical consideratons](https://www.srajdev.com/understanding-agentic-ai-architecture/?source=post_page-----89b605c41e54--------------------------------)
 - [AI Agents: A Comprehensive Introduction for Developers - etailed part by part tutorial on AI Agents](https://thenewstack.io/ai-agents-a-comprehensive-introduction-for-developers/?source=post_page-----89b605c41e54--------------------------------)
 - [Demystifying Generative AI Agents -Dr Sokratis Kartakis](https://medium.com/@sokratis.kartakis/demystifying-generative-ai-agents-cf5ad36322bd)
+  -  [vertexAI SDK + Gemini + sample use case](https://github.com/GoogleCloudPlatform/generative-ai/blob/main/gemini/function-calling/use_case_company_news_and_insights.ipynb)
 - [notebook - how you would implement an Agent](https://github.com/GoogleCloudPlatform/generative-ai/blob/main/gemini/agents/research-multi-agents/intro_research_multi_agents_gemini_2_0.ipynb?source=post_page-----89b605c41e54--------------------------------)
   
 CreWAI [crewAI is an open source multiagent orchestration framework created by João Moura.]
