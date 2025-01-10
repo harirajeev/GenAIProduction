@@ -1,4 +1,5 @@
 Agents nice articles
+- [Agents - Chip Huyen](https://huyenchip.com//2025/01/07/agents.html) 
 - [FAQ on Demystifying AI Agents - breaks down the key buildings blocks well](https://sanjmo.medium.com/demystifying-ai-agents-frequently-asked-questions-faq-a9748b4f55e6)
 - [Building effective agents - Anthropic - helps to understand Workflows v/s Agents](https://www.anthropic.com/research/building-effective-agents?source=post_page-----89b605c41e54--------------------------------)
   -  [notebook](https://github.com/anthropics/anthropic-cookbook/tree/main/patterns/agents)
