@@ -13,3 +13,5 @@
     This file provides essential information to Triton Inference Server about how to serve the model, including details such as input and output tensor names, data types,
     batching parameters, and other runtime settings. It’s typically structured like this:
 
+- [OpenAI Compatible Frontend](https://github.com/triton-inference-server/server/pull/7561)
+- [OpenAI-Compatible Frontend for Triton Inference Server (Beta)](https://docs.nvidia.com/deeplearning/triton-inference-server/user-guide/docs/client_guide/openai_readme.html)
