@@ -11,4 +11,19 @@ DeepSeek
         This data is created by a precursor to R1, an unnamed sibling which specializes in reasoning. This sibling is inspired by a third model called R1-Zero (that we’ll discuss shortly). It is significant not because it’s a great LLM to use, but because creating it required so little labeled data alongside large-scale reinforcement learning resulting in a model that excels at solving reasoning problems. 
 The outputs of this unnamed specialist reasoning model can then be used to train a more general model that can also do other, non-reasoning tasks, to the level users expect from an LLM.
       ![image](https://github.com/user-attachments/assets/38d9d26e-f796-4425-a5fa-2a19b3383312)
+   - 3- Creating reasoning models with large-scale reinforcement learning (RL)
+      -   This happens in two steps:
 
+![image](https://github.com/user-attachments/assets/eedccd65-581b-46b2-8ab7-51b7c24b463f)
+
+      -   3.1 Large-Scale Reasoning-Oriented Reinforcement Learning (R1-Zero)
+         -   Here, RL is used to create the interim reasoning model. The model is then used to generate the SFT reasoning examples. 
+             But what makes creating this model possible is an earlier experiment creating an earlier model called DeepSeek-R1-Zero.
+         -   R1-Zero is special because it is able to excel at reasoning tasks without having a labeled SFT training set. 
+             Its training goes directly from a pre-trained base model through a RL training process (no SFT step). 
+             It does this so well that it’s competitive with o1.
+             
+             ![image](https://github.com/user-attachments/assets/b5fa5a8a-6eaa-4a9e-8e95-8d86ac796ef2)
+
+
+         
