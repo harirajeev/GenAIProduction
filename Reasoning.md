@@ -22,8 +22,10 @@ The outputs of this unnamed specialist reasoning model can then be used to train
          -   R1-Zero is special because it is able to excel at reasoning tasks without having a labeled SFT training set. 
              Its training goes directly from a pre-trained base model through a RL training process (no SFT step). 
              It does this so well that it’s competitive with o1.
-             
-             ![image](https://github.com/user-attachments/assets/b5fa5a8a-6eaa-4a9e-8e95-8d86ac796ef2)
+
+![image](https://github.com/user-attachments/assets/2dcc9e12-e039-45f5-845a-b9203f442717)
+
+
 
 
          
