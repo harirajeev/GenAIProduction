@@ -19,4 +19,4 @@
   - [The State Design Pattern in Python Explained](https://www.youtube.com/watch?v=5OzLrbk82zY)
   - [Solving A Common Issue With The Strategy Pattern // In Python](https://www.youtube.com/watch?v=UPBOOIRrl40)
   - [The Strategy Pattern: Write BETTER PYTHON CODE Part 3](https://www.youtube.com/watch?v=WQ8bNdxREHU)
-  - 
+    
