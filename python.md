@@ -1,2 +1,13 @@
 - design patterns - https://github.com/AmirLavasani/python-design-patterns
 - https://www.scholarhat.com/tutorial/python/python-design-patterns
+- [A collection of design patterns and idioms in Python.](https://github.com/faif/python-patterns)
+- [Python Design Patterns](https://python-patterns.guide/)
+- [Clean Architectures in Python](https://www.thedigitalcatbooks.com/pycabook-introduction/)
+- [Run a production-ready system](https://www.thedigitalcatbooks.com/pycabook-chapter-08/)
+- [Components of a clean architecture](https://www.thedigitalcatbooks.com/pycabook-chapter-02/)
+- [Error management](https://www.thedigitalcatbooks.com/pycabook-chapter-05/)
+- [Architecture Patterns with Python — Enabling TDD, DDD, and Event-Driven Microservices](https://www.cosmicpython.com/book/preface.html)
+- Books
+  - [Fluent Python, 2nd Edition](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/)
+  - [Serious Python](https://nostarch.com/seriouspython)
+  - [Practices of the Python Pro ](https://www.manning.com/books/practices-of-the-python-pro)
