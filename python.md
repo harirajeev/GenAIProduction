@@ -1,4 +1,5 @@
 - design patterns - https://github.com/AmirLavasani/python-design-patterns
+- [https://refactoring.guru/design-patterns](https://refactoring.guru/design-patterns) - VERY COOL
 - https://www.scholarhat.com/tutorial/python/python-design-patterns
 - [A collection of design patterns and idioms in Python.](https://github.com/faif/python-patterns)
 - [Python Design Patterns](https://python-patterns.guide/)
@@ -11,3 +12,11 @@
   - [Fluent Python, 2nd Edition](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/)
   - [Serious Python](https://nostarch.com/seriouspython)
   - [Practices of the Python Pro ](https://www.manning.com/books/practices-of-the-python-pro)
+- Videos
+  - [ArjanCodes](https://www.youtube.com/@ArjanCodes)
+  - [Why Use Design Patterns When Python Has Functions?](https://www.youtube.com/watch?v=vzTrLpxPF54&t=189s)
+  - [The Factory Pattern in Python // Separate Creation From Use](https://www.youtube.com/watch?v=s_4ZrtQs8Do)
+  - [The State Design Pattern in Python Explained](https://www.youtube.com/watch?v=5OzLrbk82zY)
+  - [Solving A Common Issue With The Strategy Pattern // In Python](https://www.youtube.com/watch?v=UPBOOIRrl40)
+  - [The Strategy Pattern: Write BETTER PYTHON CODE Part 3](https://www.youtube.com/watch?v=WQ8bNdxREHU)
+  - 
