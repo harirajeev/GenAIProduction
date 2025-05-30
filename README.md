@@ -1,3 +1,5 @@
+# Python
+- https://github.com/harirajeev/GenAIProduction/blob/main/python.md
 # GenAIProduction
 - [Chip Huyen learning resources](https://github.com/chiphuyen/aie-book/blob/main/resources.md)
 - [APIs](https://github.com/harirajeev/GenAIProduction/blob/main/APIs.md)
