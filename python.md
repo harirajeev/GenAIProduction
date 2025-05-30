@@ -1,1 +1,2 @@
 - design patterns - https://github.com/AmirLavasani/python-design-patterns
+- https://www.scholarhat.com/tutorial/python/python-design-patterns
