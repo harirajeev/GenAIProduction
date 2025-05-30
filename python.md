@@ -1,4 +1,4 @@
-- design patterns - https://github.com/AmirLavasani/python-design-patterns
+- [AmirLavasani/python-design-patterns](https://github.com/AmirLavasani/python-design-patterns)
 - [https://refactoring.guru/design-patterns](https://refactoring.guru/design-patterns) - VERY COOL
 - https://www.scholarhat.com/tutorial/python/python-design-patterns
 - [A collection of design patterns and idioms in Python.](https://github.com/faif/python-patterns)
