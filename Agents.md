@@ -1,3 +1,6 @@
+Agents Courses
+- [LLM Agents MOOC Berkeley RDI Center on Decentralization & AI](https://www.youtube.com/playlist?list=PLS01nW3RtgopsNLeM936V4TNSsvvVglLc)
+  
 Agents nice articles
 - [Agents - Chip Huyen](https://huyenchip.com//2025/01/07/agents.html) 
 - [Building effective agents - Anthropic - helps to understand Workflows v/s Agents](https://www.anthropic.com/research/building-effective-agents?source=post_page-----89b605c41e54--------------------------------)
